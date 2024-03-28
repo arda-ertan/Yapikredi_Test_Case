@@ -1,4 +1,7 @@
-Projenin verimli çalışması için database dizininden veritabanının kurulması verilerin eklenmesi gerekmektedir. Calendar tablosunu eklemez ise hata alacaktır.
+Projenin verimli çalışması için database dizininden veritabanının kurulması verilerin eklenmesi gerekmektedir. 
+Calendar tablosunu eklemez ise hata alacaktır.
+
+ER scheması database dizininin altındadır
 
 Aşağıda hangi kurallar hangi servisler altında yazılmış ekledim.
 
